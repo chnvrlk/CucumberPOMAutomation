@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+
+    <configuration>
+
+
+        <theme>standard</theme>
+
+        <encoding>defaults</encoding>
+
+        <protocol>https</protocol>
+
+        <documentTitle>Shopping Test</documentTitle>
+
+        <reportName>Shopping Report</reportName>
+
+        <dateFormat>yyyy-MM-dd</dateFormat>
+
+        <timeFormat>HH:mm:ss</timeFormat>
+
+        <!--    &lt;!&ndash; custom javascript &ndash;&gt;-->
+
+        <!--    <scripts>-->
+
+        <!--      <![CDATA[-->
+
+        <!--    $(document).ready(function() {-->
+
+
+
+        <!--    });-->
+
+        <!--   ]]>-->
+
+        <!--    </scripts>-->
+
+
+        <!--    &lt;!&ndash; custom styles &ndash;&gt;-->
+
+        <!--    <styles>-->
+
+        <!--      <![CDATA[-->
+
+
+        <!--   ]]>-->
+
+        <!--    </styles>-->
+
+    </configuration>
+
+</extentreports>
+
